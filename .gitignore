@@ -12,3 +12,26 @@ docs/
 
 # Dotenv file
 .env
+
+# Node modules
+node_modules/
+node_modules/*
+node_modules/**/*
+
+# Package lock
+package-lock.json
+
+# Yarn lock
+yarn.lock
+
+# Yarn error logs
+yarn-error.log
+
+# Yarn integrity file
+.yarn-integrity
+
+# Yarn state file
+.yarn-state
+
+# Yarn v2
+.yarn/*
